@@ -1,5 +1,5 @@
 {
   "name": "Release: Patch",
   "color": "#FFB6C1",
-  "description": "Release to Chef Supermarket as a version patch when merged"
+  "description": "Release is a semver.org patch"
 }
